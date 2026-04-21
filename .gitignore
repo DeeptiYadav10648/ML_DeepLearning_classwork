@@ -1,0 +1,16 @@
+# Ignore datasets
+Datasets/
+
+# Ignore logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# .env file for environment variables
+.env
+.env.*
